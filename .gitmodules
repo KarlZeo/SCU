@@ -1,12 +1,12 @@
 [submodule "MASPreferences"]
 	path = MASPreferences
-	url = git@github.com:shpakovski/MASPreferences.git
+	url = https://github.com/shpakovski/MASPreferences.git
 [submodule "SHKit"]
 	path = SHKit
-	url = git@github.com:neolee/SHKit.git
+	url = https://github.com/neolee/SHKit.git
 [submodule "ShortcutRecorder"]
 	path = ShortcutRecorder
-	url = git@github.com:Kentzo/ShortcutRecorder.git
+	url = https://github.com/Kentzo/ShortcutRecorder.git
 [submodule "YACYAML"]
 	path = YACYAML
-	url = git@github.com:th-in-gs/YACYAML.git
+	url = https://github.com/th-in-gs/YACYAML.git
